@@ -21,3 +21,4 @@ A curated list of awesome online development environments ([IDE](https://en.wiki
 * [Snack](https://snack.expo.io/) - React
 * [StackBlitz](https://stackblitz.com/) - Web
 * [The Online Compiler](https://theonlinecompiler.com/) - All snippets
+* [WebpackBin](https://www.webpackbin.com/) - Web
