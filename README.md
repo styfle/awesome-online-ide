@@ -17,6 +17,7 @@ A curated list of awesome online development environments ([IDE](https://en.wiki
 * ~~[Nitrous](https://www.nitrous.io/) - All~~ **Discontinued**
 * [OnlineGDB](https://www.onlinegdb.com/) - C/C++
 * [Repl.it](https://repl.it/) - All snippets
+* [RunKit](https://runkit.com) - Node.js snippets + visualizations
 * [Runnable](http://code.runnable.com/) - All snippets
 * [Snack](https://snack.expo.io/) - React
 * [StackBlitz](https://stackblitz.com/) - Web
