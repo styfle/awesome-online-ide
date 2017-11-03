@@ -1,5 +1,8 @@
+<img  width="128" height="128" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/codeschool.svg" align="right">
+
 # Awesome Online IDE [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of awesome online development environments ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)).
+
+A curated list of awesome online implementations of integrated development environments ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)).
 
 ## Full IDE
 
