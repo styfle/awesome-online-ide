@@ -4,6 +4,13 @@
 
 A curated list of awesome online implementations of integrated development environments ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)).
 
+## Contents
+
+- [Full IDE](#full-ide)
+- [Snippets](#snippets)
+- [Web Snippets](#web-snippets)
+- [RIP](#rip)
+
 ## Full IDE
 
 * [Cloud9](http://c9.io) - Run any language on a full VM complete with a terminal
