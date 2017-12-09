@@ -27,15 +27,16 @@ A curated list of awesome online implementations of integrated development envir
 * [JDoodle](https://www.jdoodle.com) - Run snippets from over 100 languages including Haskell, Prolog, MySQL, and MongoDB
 * [Ideone](https://ideone.com) - Run snippets from over 60 languages including AWK, Swift, and SQLite
 * [The Online Compiler](https://theonlinecompiler.com) - Run snippets from over 10 languages including C++, Java, Python, C# code with some intellisense code-completion
-* [CPP Shell](http://www.cpp.sh) - C++ language snippets with input flags for warning level and optimiziation level
+* [CPP Shell](
+//www.cpp.sh) - C++ language snippets with input flags for warning level and optimiziation level
 * [Repl.it](https://repl.it) - Run snippets from over 50 languages including Clojure, Scheme, Enzyme, and Jest
 * [RunKit](https://runkit.com) - Node.js language snippets + visualizations but requires a sign-in
 
 ### Web Snippets
 
-* [CodePen](https://codepen.io) - Run snippets in HTML/CSS/JS
-* [JS Bin](https://jsbin.com) - Run snippets in HTML/CSS/JS
-* [JSFiddle](https://jsfiddle.net) - Run snippets in HTML/CSS/JS
+* [CodePen](https://codepen.io) - Run snippets in HTML/CSS/JS, popular with designers
+* [JS Bin](https://jsbin.com) <img title="Open Source" width="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" /> - Run snippets in HTML/CSS/JS/TS, provides [Codecasting](https://remysharp.com/2013/11/14/what-is-codecasting/)
+* [JSFiddle](https://jsfiddle.net) - Run snippets in HTML/CSS/JS and collaborate in realtime
 
 ## RIP
 * ~~[Nitrous](https://www.nitrous.io/) - All languages~~
