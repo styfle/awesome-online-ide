@@ -30,9 +30,13 @@ A curated list of awesome online implementations of integrated development envir
 * [JS Bin](https://jsbin.com) - Run snippets in HTML/CSS/JS
 * [JSFiddle](https://jsfiddle.net) - Run snippets in HTML/CSS/JS
 
-
-
 ## RIP
 * ~~[Nitrous](https://www.nitrous.io/) - All languages~~
 * ~~[Runnable](http://code.runnable.com/) - All snippets~~
 * ~~[OnlineGDB](https://www.onlinegdb.com) - C/C++ languages~~
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [ceriously.com](https://www.ceriously.com/) has waived all copyright and related or neighboring rights to this work.
