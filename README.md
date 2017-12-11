@@ -28,7 +28,7 @@ A curated list of awesome online implementations of integrated development envir
 * [Ideone](https://ideone.com) - Run snippets from over 60 languages including AWK, Swift, and SQLite
 * [The Online Compiler](https://theonlinecompiler.com) - Run snippets from over 10 languages including C++, Java, Python, C# code with some intellisense code-completion
 * [CPP Shell](
-//www.cpp.sh) - C++ language snippets with input flags for warning level and optimiziation level
+//www.cpp.sh) - Run C++ snippets with input flags for warning level and optimiziation level
 * [Repl.it](https://repl.it) - Run snippets from over 50 languages including Clojure, Scheme, Enzyme, and Jest
 * [RunKit](https://runkit.com) - Node.js language snippets + visualizations but requires a sign-in
 
