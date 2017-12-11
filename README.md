@@ -30,7 +30,7 @@ A curated list of awesome online implementations of integrated development envir
 * [CPP Shell](
 //www.cpp.sh) - Run C++ snippets with input flags for warning level and optimiziation level
 * [Repl.it](https://repl.it) - Run snippets from over 50 languages including Clojure, Scheme, Enzyme, and Jest
-* [RunKit](https://runkit.com) - Node.js language snippets + visualizations but requires a sign-in
+* [RunKit](https://runkit.com) - Run Node.js snippets + visualizations but requires a sign-in
 
 ### Web Snippets
 
