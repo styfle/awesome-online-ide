@@ -32,6 +32,7 @@ A curated list of awesome online implementations of integrated development envir
 //www.cpp.sh) - Run C++ snippets with input flags for warning level and optimiziation level
 * [Repl.it](https://repl.it) - Run snippets from over 50 languages including Clojure, Scheme, Enzyme, and Jest
 * [RunKit](https://runkit.com) - Run Node.js snippets + visualizations but requires a sign-in
+* [OnlineGDB](https://onlinegdb.com) - Run snippets of C, C++, Java, Python, PHP, HTML with some intellisense code-completion
 
 ### Web Snippets
 
@@ -42,7 +43,6 @@ A curated list of awesome online implementations of integrated development envir
 ## RIP
 * ~~[Nitrous](https://www.nitrous.io/) - All languages~~
 * ~~[Runnable](http://code.runnable.com/) - All snippets~~
-* ~~[OnlineGDB](https://www.onlinegdb.com) - C/C++ languages~~
 
 ## License
 
