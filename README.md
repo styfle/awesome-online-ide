@@ -23,7 +23,7 @@ A curated list of awesome online implementations of integrated development envir
 ## Snippets
 
 * [Glot](https://glot.io) <img title="Open Source" width="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" /> - Run snippets from over 30 languages as docker containers including C#, Kotlin, Julia, Go, and Ruby
-* [Codiva Online Compiler and IDE](https://www.codiva.io) - Run Java, C and C++ programs online. Automatically compiles in the background with some intellisense code-completion.
+* [Codiva Online Compiler and IDE](https://www.codiva.io) - Run Java, C and C++ programs online. Automatically compiles in the background with some intellisense code-completion
 * [Try It Online](https://tio.run) <img title="Open Source" width="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" /> - Run snippets from over 300 languages including esoteric code-golf languages
 * [JDoodle](https://www.jdoodle.com) - Run snippets from over 100 languages including Haskell, Prolog, MySQL, and MongoDB
 * [Ideone](https://ideone.com) - Run snippets from over 60 languages including AWK, Swift, and SQLite
