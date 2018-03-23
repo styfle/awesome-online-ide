@@ -20,6 +20,8 @@ A curated list of awesome online implementations of integrated development envir
 * [WebpackBin](https://www.webpackbin.com) <img title="Open Source" width="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" /> - Run webpack bundling with starting templates for Babel ES2015 or TypeScript
 * [Snack Expo](https://snack.expo.io) - Run your React Native javascript in the browser and on your mobile iOS or Android
 * [Codeanywhere](https://codeanywhere.com/) - Run a large number of languages on a container comes in numerous pre-built environment with a terminal
+* [WebAssembly Studio](https://webassembly.studio/) <img title="Open Source" width="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" /> - Run C, Rust, Wat, or AssemblyScript code as WebAssembly in the browser 
+
 ## Snippets
 
 * [Glot](https://glot.io) <img title="Open Source" width="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" /> - Run snippets from over 30 languages as docker containers including C#, Kotlin, Julia, Go, and Ruby
