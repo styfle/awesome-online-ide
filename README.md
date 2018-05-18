@@ -35,6 +35,8 @@ A curated list of awesome online implementations of integrated development envir
 * [OnlineGDB](https://onlinegdb.com) - Run snippets of C, C++, Java, Python, PHP, HTML with some intellisense code-completion
 * [SQLFiddle](http://sqlfiddle.com/) - Run snippets of MySQL, MSSQL, PostgreSQL, SQLite, and Oracle
 * [Go Playground](https://play.golang.org/) - Run snippets for Go programming language
+* [TaaS](https://taas.trust-in-soft.com) - Run and provides advanced C and C++ analyses
+* [Tsnippet](https://taas.trust-in-soft.com/tsnippet) - Runs analyzes and snippets of C code
 
 ### Web Snippets
 
