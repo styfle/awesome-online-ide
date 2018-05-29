@@ -35,6 +35,7 @@ A curated list of awesome online implementations of integrated development envir
 * [OnlineGDB](https://onlinegdb.com) - Run snippets of C, C++, Java, Python, PHP, HTML with some intellisense code-completion
 * [SQLFiddle](http://sqlfiddle.com/) - Run snippets of MySQL, MSSQL, PostgreSQL, SQLite, and Oracle
 * [Go Playground](https://play.golang.org/) - Run snippets for Go programming language
+* [Rust Playground](https://play.rust-lang.org/) - Run snippets of Rust programming language
 
 ### Web Snippets
 
