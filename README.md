@@ -14,7 +14,7 @@ A curated list of awesome online implementations of integrated development envir
 ## Full IDE
 
 * [AWS Cloud9](https://aws.amazon.com/cloud9) - Run any language on a full VM complete with a terminal
-* [CodeEnvy](https://codenvy.io) <img title="Open Source" width="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" /> - Run any language on a full VM complete with [Eclipse Che](https://www.eclipse.org/che/)
+* [CodeEnvy](https://codenvy.io) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/codenvy/codenvy) [<img title="Self Hosted" width="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://hub.docker.com/r/codenvy/codenvy) - Run any language on a full VM complete with [Eclipse Che](https://www.eclipse.org/che/)
 * [StackBlitz](https://stackblitz.com) - Run javascript with starting templates for Angular, React, or Ionic with full intellisense + instant error checking
 * [CodeSandbox](https://codesandbox.io) <img title="Open Source" width="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" /> - Run javascript with starting templates for React, Vue, Angular, Preact and more with full intellisense, lint error checking and live collaborative editing.
 * [Snack Expo](https://snack.expo.io) - Run your React Native javascript in the browser and on your mobile iOS or Android
