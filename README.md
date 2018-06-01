@@ -42,6 +42,7 @@ A curated list of awesome online implementations of integrated development envir
 * [CodePen](https://codepen.io) - Run snippets in HTML/CSS/JS, popular with designers
 * [JS Bin](https://jsbin.com) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/jsbin/jsbin) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://hub.docker.com/r/euprogramador/jsbin/) - Run snippets in HTML/CSS/JS/TS, provides [Codecasting](https://remysharp.com/2013/11/14/what-is-codecasting/)
 * [JSFiddle](https://jsfiddle.net) - Run snippets in HTML/CSS/JS and collaborate in realtime
+* [Flems](https://flems.io) [<img title="Open Source" width="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/porsager/flems) - Run snippets in HTML/CSS/JS, doesn't require a connection to the server after page load
 * [Plunker](https://plnkr.co/) - Run snippets in HTML/CSS/JS/TS and colloborate by forking, commenting, and participating in the forums.
 
 ## RIP
