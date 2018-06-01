@@ -13,19 +13,19 @@ A curated list of awesome online implementations of integrated development envir
 
 ## Full IDE
 
-* [AWS Cloud9](https://aws.amazon.com/cloud9) - Run any language on a full VM complete with a terminal
-* [CodeEnvy](https://codenvy.io) <img title="Open Source" width="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" /> - Run any language on a full VM complete with [Eclipse Che](https://www.eclipse.org/che/)
+* [AWS Cloud9](https://aws.amazon.com/cloud9) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/c9/core) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://hub.docker.com/r/cloud9/workspace/) - Run any language on a full VM complete with a terminal
+* [CodeEnvy](https://codenvy.io) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/codenvy/codenvy) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://hub.docker.com/r/codenvy/codenvy) - Run any language on a full VM complete with [Eclipse Che](https://www.eclipse.org/che/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/eclipse/che) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://hub.docker.com/r/eclipse/che/)
 * [StackBlitz](https://stackblitz.com) - Run javascript with starting templates for Angular, React, or Ionic with full intellisense + instant error checking
-* [CodeSandbox](https://codesandbox.io) <img title="Open Source" width="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" /> - Run javascript with starting templates for React, Vue, Angular, Preact and more with full intellisense, lint error checking and live collaborative editing.
-* [Snack Expo](https://snack.expo.io) - Run your React Native javascript in the browser and on your mobile iOS or Android
+* [CodeSandbox](https://codesandbox.io) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/CompuIves/codesandbox-client) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://hub.docker.com/r/codesandbox/client/) - Run javascript with starting templates for React, Vue, Angular, Preact and more with full intellisense, lint error checking and live collaborative editing.
+* [Snack Expo](https://snack.expo.io) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/expo/snack-sdk) - Run your React Native javascript in the browser and on your mobile iOS or Android
 * [Codeanywhere](https://codeanywhere.com/) - Run a large number of languages on a container comes in numerous pre-built environment with a terminal
-* [WebAssembly Studio](https://webassembly.studio/) <img title="Open Source" width="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" /> - Run C, Rust, Wat, or AssemblyScript code as WebAssembly in the browser
+* [WebAssembly Studio](https://webassembly.studio/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/wasdk/WebAssemblyStudio) - Run C, Rust, Wat, or AssemblyScript code as WebAssembly in the browser
 
 ## Snippets
 
-* [Glot](https://glot.io) <img title="Open Source" width="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" /> - Run snippets from over 30 languages as docker containers including C#, Kotlin, Julia, Go, and Ruby
+* [Glot](https://glot.io) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/prasmussen/glot-www) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://hub.docker.com/r/javierprovecho/glot-www/) - Run snippets from over 30 languages as docker containers including C#, Kotlin, Julia, Go, and Ruby
 * [Codiva Online Compiler and IDE](https://www.codiva.io) - Run Java, C and C++ programs with background compilation and some intellisense code-completion
-* [Try It Online](https://tio.run) <img title="Open Source" width="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" /> - Run snippets from over 300 languages including esoteric code-golf languages
+* [Try It Online](https://tio.run) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/TryItOnline/tryitonline) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://hub.docker.com/r/tryitonline/tryitoffline/) - Run snippets from over 300 languages including esoteric code-golf languages
 * [JDoodle](https://www.jdoodle.com) - Run snippets from over 100 languages including Haskell, Prolog, MySQL, and MongoDB
 * [Ideone](https://ideone.com) - Run snippets from over 60 languages including AWK, Swift, and SQLite
 * [The Online Compiler](https://theonlinecompiler.com) - Run snippets from over 10 languages including C++, Java, Python, C# code with some intellisense code-completion
@@ -40,15 +40,16 @@ A curated list of awesome online implementations of integrated development envir
 ### Web Snippets
 
 * [CodePen](https://codepen.io) - Run snippets in HTML/CSS/JS, popular with designers
-* [JS Bin](https://jsbin.com) <img title="Open Source" width="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" /> - Run snippets in HTML/CSS/JS/TS, provides [Codecasting](https://remysharp.com/2013/11/14/what-is-codecasting/)
+* [JS Bin](https://jsbin.com) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/jsbin/jsbin) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://hub.docker.com/r/euprogramador/jsbin/) - Run snippets in HTML/CSS/JS/TS, provides [Codecasting](https://remysharp.com/2013/11/14/what-is-codecasting/)
 * [JSFiddle](https://jsfiddle.net) - Run snippets in HTML/CSS/JS and collaborate in realtime
 * [Flems](https://flems.io) [<img title="Open Source" width="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/porsager/flems) - Run snippets in HTML/CSS/JS, doesn't require a connection to the server after page load
+* [Plunker](https://plnkr.co/) - Run snippets in HTML/CSS/JS/TS and colloborate by forking, commenting, and participating in the forums.
 
 ## RIP
 
 * ~~[Nitrous](https://www.nitrous.io/) - All languages~~
 * ~~[Runnable](http://code.runnable.com/) - All snippets~~
-* ~~WebpackBin <img title="Open Source" width="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" /> - Run webpack bundling with starting templates for Babel ES2015 or TypeScript~~ Merged with CodeSandbox in February 2018
+* ~~WebpackBin [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/cerebral/webpackbin) - Run webpack bundling with starting templates for Babel ES2015 or TypeScript~~ Merged with CodeSandbox in February 2018
 
 ## License
 
