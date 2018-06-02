@@ -18,7 +18,7 @@ A curated list of awesome online implementations of integrated development envir
 * [StackBlitz](https://stackblitz.com) - Run javascript with starting templates for Angular, React, or Ionic with full intellisense + instant error checking
 * [CodeSandbox](https://codesandbox.io) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/CompuIves/codesandbox-client) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://hub.docker.com/r/codesandbox/client/) - Run javascript with starting templates for React, Vue, Angular, Preact and more with full intellisense, lint error checking and live collaborative editing
 * [Snack Expo](https://snack.expo.io) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/expo/snack-sdk) - Run your React Native javascript in the browser and on your mobile iOS or Android
-* [Codeanywhere](https://codeanywhere.com/) - Run a large number of languages on a container comes in numerous pre-built environment with a terminal
+* [Codeanywhere](https://codeanywhere.com/) - Run many languages in a container with pre-built environment and a terminal
 * [WebAssembly Studio](https://webassembly.studio/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/wasdk/WebAssemblyStudio) - Run C, Rust, Wat, or AssemblyScript code as WebAssembly in the browser
 
 ## Snippets
@@ -42,7 +42,7 @@ A curated list of awesome online implementations of integrated development envir
 * [CodePen](https://codepen.io) - Run snippets in HTML/CSS/JS, popular with designers
 * [JS Bin](https://jsbin.com) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/jsbin/jsbin) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://hub.docker.com/r/euprogramador/jsbin/) - Run snippets in HTML/CSS/JS/TS, provides [Codecasting](https://remysharp.com/2013/11/14/what-is-codecasting/)
 * [JSFiddle](https://jsfiddle.net) - Run snippets in HTML/CSS/JS and collaborate in realtime
-* [Flems](https://flems.io) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/porsager/flems) - Run snippets in HTML/CSS/JS, doesn't require a connection to the server after page load
+* [Flems](https://flems.io) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/porsager/flems) - Run snippets in HTML/CSS/JS without a connection to the server (after page load)
 * [Plunker](https://plnkr.co/) - Run snippets in HTML/CSS/JS/TS and collaborate by forking, commenting, and participating in the forums
 
 ## RIP
