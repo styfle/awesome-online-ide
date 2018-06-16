@@ -20,7 +20,7 @@ A curated list of awesome online implementations of integrated development envir
 * [Snack Expo](https://snack.expo.io) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/expo/snack-sdk) - Run your React Native javascript in the browser and on your mobile iOS or Android
 * [Codeanywhere](https://codeanywhere.com/) - Run many languages in a container with pre-built environment and a terminal
 * [WebAssembly Studio](https://webassembly.studio/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/wasdk/WebAssemblyStudio) - Run C, Rust, Wat, or AssemblyScript code as WebAssembly in the browser
-* [Remix](http://remix.ethereum.org) - Run Solidity with an in browser compiler, debugger, Static Analyzer for security, and direct access to Ethereum main network and testing networks.
+* [Remix](http://remix.ethereum.org) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/ethereum/remix) - Run Solidity with an in browser compiler, debugger, Static Analyzer for security, and direct access to Ethereum main network and testing networks.
 
 ## Snippets
 
