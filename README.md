@@ -20,6 +20,7 @@ A curated list of awesome online implementations of integrated development envir
 * [Snack Expo](https://snack.expo.io) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/expo/snack-sdk) - Run your React Native javascript in the browser and on your mobile iOS or Android
 * [Codeanywhere](https://codeanywhere.com/) - Run many languages in a container with pre-built environment and a terminal
 * [WebAssembly Studio](https://webassembly.studio/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/wasdk/WebAssemblyStudio) - Run C, Rust, Wat, or AssemblyScript code as WebAssembly in the browser
+* [GitLab Web IDE](https://docs.gitlab.com/ee/user/project/web_ide/) integrated part of GitLab, integrated with the repositories, staging and committing files, merge request branch switcher, web terminal and client side evaluation coming soon.
 
 ## Snippets
 
