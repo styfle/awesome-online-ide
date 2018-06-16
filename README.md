@@ -29,6 +29,7 @@ A curated list of awesome online implementations of integrated development envir
 * [Codiva Online Compiler and IDE](https://www.codiva.io) - Run Java, C and C++ programs with background compilation and some intellisense code-completion
 * [Try It Online](https://tio.run) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/TryItOnline/tryitonline) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://hub.docker.com/r/tryitonline/tryitoffline/) - Run snippets from over 300 languages including esoteric code-golf languages
 * [JDoodle](https://www.jdoodle.com) - Run snippets from over 100 languages including Haskell, Prolog, MySQL, and MongoDB
+* [Judge0](https://ide.judge0.com) - Run snippets from over 40 languages including Erlang, Elixir, OCaml and Octave
 * [Ideone](https://ideone.com) - Run snippets from over 60 languages including AWK, Swift, and SQLite
 * [The Online Compiler](https://theonlinecompiler.com) - Run snippets from over 10 languages including C++, Java, Python, C# code with some intellisense code-completion
 * [CPP Shell](//www.cpp.sh) - Run C++ snippets with input flags for warning level and optimiziation level
