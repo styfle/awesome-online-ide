@@ -39,6 +39,7 @@ A curated list of awesome online implementations of integrated development envir
 * [Rust Playground](https://play.rust-lang.org/) - Run snippets of Rust programming language
 * [TypeScript Playground](https://agentcooper.github.io/typescript-play/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/agentcooper/typescript-play) - Run snippets of TypeScript with tsconfig options and full intellisense
 * [Python Tutor](http://pythontutor.com) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/pgbovine/OnlinePythonTutor) - Run snippets of Python, JavaScript, TypeScript, Java, Ruby, C, and C++ code and see detailed step-by-step visualizations of run-time state
+* [Codeboard.io](https://codeboard.io) - Run snippets in C, C++, Eiffel, Haskell, Java, Python, and use tests for automatic grading of code written by students
 
 ### Web Snippets
 
