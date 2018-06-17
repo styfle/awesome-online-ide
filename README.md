@@ -22,6 +22,7 @@ A curated list of awesome online implementations of integrated development envir
 * [WebAssembly Studio](https://webassembly.studio/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/wasdk/WebAssemblyStudio) - Run C, Rust, Wat, or AssemblyScript code as WebAssembly in the browser
 * [Remix](http://remix.ethereum.org) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/ethereum/remix) - Run Solidity with a compiler, debugger, Static Analyzer for security, and direct access to Ethereum main network and testing networks
 * [Nativescript Playground](https://play.nativescript.org/) - Run Nativescript with Angular.js, Javascript, Typescript, or Vue.js on your mobile iOS or Android device by scanning a QR code
+* [Wide](https://wide.b3log.org/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/b3log/wide) - Run Go with full intellisense code-completion, expression-info, and jump to declaration
 
 ## Snippets
 
