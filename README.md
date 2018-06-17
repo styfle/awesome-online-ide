@@ -20,7 +20,9 @@ A curated list of awesome online implementations of integrated development envir
 * [Snack Expo](https://snack.expo.io) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/expo/snack-sdk) - Run your React Native javascript in the browser and on your mobile iOS or Android
 * [Codeanywhere](https://codeanywhere.com/) - Run many languages in a container with pre-built environment and a terminal
 * [WebAssembly Studio](https://webassembly.studio/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/wasdk/WebAssemblyStudio) - Run C, Rust, Wat, or AssemblyScript code as WebAssembly in the browser
-* [Wide](https://wide.b3log.org/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/b3log/wide) - Run Go in the browser (including mobile) with expression-info, autocomplete and jump to declaration
+* [Remix](http://remix.ethereum.org) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/ethereum/remix) - Run Solidity with a compiler, debugger, Static Analyzer for security, and direct access to Ethereum main network and testing networks
+* [Nativescript Playground](https://play.nativescript.org/) - Run Nativescript with Angular.js, Javascript, Typescript, or Vue.js on your mobile iOS or Android device by scanning a QR code
+* [Wide](https://wide.b3log.org/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/b3log/wide) - Run Go with full intellisense code-completion, expression-info, and jump to declaration
 
 ## Snippets
 
@@ -38,6 +40,8 @@ A curated list of awesome online implementations of integrated development envir
 * [Go Playground](https://play.golang.org/) - Run snippets for Go programming language
 * [Rust Playground](https://play.rust-lang.org/) - Run snippets of Rust programming language
 * [TypeScript Playground](https://agentcooper.github.io/typescript-play/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/agentcooper/typescript-play) - Run snippets of TypeScript with tsconfig options and full intellisense
+* [Python Tutor](http://pythontutor.com) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/pgbovine/OnlinePythonTutor) - Run snippets of Python, JavaScript, TypeScript, Java, Ruby, C, and C++ code and see detailed step-by-step visualizations of run-time state
+* [Codeboard.io](https://codeboard.io) - Run snippets in C, C++, Eiffel, Haskell, Java, Python, and use tests for automatic grading of code written by students
 
 ### Web Snippets
 
