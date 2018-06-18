@@ -6,10 +6,21 @@ A curated list of awesome online implementations of integrated development envir
 
 ## Contents
 
+### Jump to
+
 * [Full IDE](#full-ide)
 * [Snippets](#snippets)
 * [Web Snippets](#web-snippets)
 * [RIP](#rip)
+
+### Legend
+
+| Icon | Meaning |
+|------|---------|
+|<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />|Open source or source code available|
+|<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />|Docker image or other self-hosted option available|
+|<img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" />|Sign-up required before usage|
+
 
 ## Full IDE
 
