@@ -35,6 +35,7 @@ A curated list of awesome online implementations of integrated development envir
 * [Nativescript Playground](https://play.nativescript.org/) - Run Nativescript with Angular.js, Javascript, Typescript, or Vue.js on your mobile iOS or Android device by scanning a QR code
 * [Wide](https://wide.b3log.org/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/b3log/wide) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run Go with full intellisense code-completion, expression-info, and jump to declaration
 * [Glitch](https://glitch.com/) - Run full Node.js projects with support for automating hosting, version control, CDN for assets, secure storage of secrets, real-time collaboration, full console access, GitHub import/export, server-side debugger, instant deployments, and more
+* [Theia](https://theia-ide.org/) - [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/theia-ide/theia) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://hub.docker.com/u/theiaide/) - Run any language on a full VM complete with a terminal built on [Monaco Editor](https://microsoft.github.io/monaco-editor/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/Microsoft/monaco-editor)
 
 ## Snippets
 
