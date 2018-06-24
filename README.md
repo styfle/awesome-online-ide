@@ -56,6 +56,7 @@ A curated list of awesome online implementations of integrated development envir
 * [TypeScript Playground](https://agentcooper.github.io/typescript-play/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/agentcooper/typescript-play) - Run snippets of TypeScript with tsconfig options and full intellisense
 * [Python Tutor](http://pythontutor.com) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/pgbovine/OnlinePythonTutor) - Run snippets of Python, JavaScript, TypeScript, Java, Ruby, C, and C++ code and see detailed step-by-step visualizations of run-time state
 * [Codeboard.io](https://codeboard.io) - Run snippets in C, C++, Eiffel, Haskell, Java, Python, and use tests for automatic grading of code written by students
+* [kotlin-web-demo](http://try.kotl.in) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/JetBrains/kotlin-web-demo) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://github.com/JetBrains/kotlin-web-demo/tree/master/docker) - Run Kotlin snippets with auto-completion, type checking and automatically translate Java to Kotlin code
 
 ### Web Snippets
 
