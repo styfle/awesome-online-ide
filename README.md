@@ -39,7 +39,7 @@ A curated list of awesome online implementations of integrated development envir
 * [Datalore](https://datalore.io/) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run Python notebooks for data analysis and visualization, with real-time collaboration, incremental calculation, and integrated version control
 * [MATLAB Online](https://www.mathworks.com/products/matlab-online.html) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run MATLAB code, visualize results, share scripts and collaborate on mathematical computing software
 * [Colaboratory](https://research.google.com/colaboratory/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/googlecolab/colabtools) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run Python in a Jupyter notebook with ML libraries and free GPUs for running experiments
-
+* [Repl.it](https://repl.it/) - A fast and powerful yet simple IDE that scales from running small snippets to building and deploying big projects in your language of choice (50+ languages). The IDE emphasizes interactive programming, with live server and static site deployment, version control, and advanced intellisense (autocomplete, click-to-symbol, linting, and more).
 
 ## Snippets
 
@@ -51,7 +51,6 @@ A curated list of awesome online implementations of integrated development envir
 * [Ideone](https://ideone.com) - Run snippets from over 60 languages including AWK, Swift, and SQLite
 * [The Online Compiler](https://theonlinecompiler.com) - Run snippets from over 10 languages including C++, Java, Python, C# code with some intellisense code-completion
 * [CPP Shell](//www.cpp.sh) - Run C++ snippets with input flags for warning level and optimiziation level
-* [Repl.it](https://repl.it) - Run snippets from over 50 languages including Clojure, Scheme, Enzyme, and Jest
 * [RunKit](https://runkit.com) - Run Node.js snippets + visualizations but requires a sign-in
 * [OnlineGDB](https://onlinegdb.com) - Run snippets of C, C++, Java, Python, PHP, HTML with some intellisense code-completion
 * [SQLFiddle](http://sqlfiddle.com/) - Run snippets of MySQL, MSSQL, PostgreSQL, SQLite, and Oracle
