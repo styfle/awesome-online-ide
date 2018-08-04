@@ -1,12 +1,12 @@
-<img  width="128" height="128" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/codeschool.svg" align="right">
+<a href="https://ide.ceriously.com"><img width="128" height="128" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/codeschool.svg" align="right"></a>
 
 # Awesome Online IDE [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome online implementations of Integrated Development Environments (IDE)
 
-An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is a software application that provides comprehensive facilities to computer programmers for software development. This typically includes a text editor, syntax highlighting, debugger, version control, build/execute steps, and deployment tools. Another defining feature of an IDE is some form of intelligent code completion, sometimes called [intellisense](https://en.wikipedia.org/wiki/Intelligent_code_completion).
+An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is a software application that provides comprehensive facilities to computer programmers for software development. This typically includes a text editor, syntax highlighting, debugger, version control, and build/run/deploy options. Another defining feature of an IDE is some form of intelligent code completion, sometimes called [intellisense](https://en.wikipedia.org/wiki/Intelligent_code_completion).
  
- An "Online IDE" has the feature mentioned above but runs in a web browser instead of installing a native application. An "Online IDE" could be made accessible in offline mode without an internet connection and still satisfy the above conditions.
+ An "Online IDE" has the features mentioned above but runs in a web browser instead of installing as a native application. An "Online IDE" can be made accessible in offline mode without an internet connection and still satisfy the above conditions.
 
 ## Contents
 
