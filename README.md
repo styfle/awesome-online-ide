@@ -81,6 +81,10 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 * ~~[Runnable](http://code.runnable.com/) - All snippets~~
 * ~~WebpackBin [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/cerebral/webpackbin) - Run webpack bundling with starting templates for Babel ES2015 or TypeScript~~ Merged with CodeSandbox in February 2018
 
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) and [code of conduct](code-of-conduct.md) first.
+
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
