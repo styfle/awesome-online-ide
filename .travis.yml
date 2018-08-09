@@ -1,3 +1,6 @@
+branches:
+  only:
+    - "master"
 git:
   depth: 3
 language: node_js
