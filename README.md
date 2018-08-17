@@ -43,6 +43,7 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [Datalore](https://datalore.io) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run Python notebooks for data analysis and visualization, with real-time collaboration, incremental calculation, and integrated version control.
 - [MATLAB Online](https://www.mathworks.com/products/matlab-online.html) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run MATLAB code, visualize results, share scripts and collaborate on mathematical computing software.
 - [Colaboratory](https://research.google.com/colaboratory/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/googlecolab/colabtools) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run Python in a Jupyter notebook with ML libraries and free GPUs for running experiments.
+- [Coder](https://coder.com) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run most languages on a full Linux VM complete with a terminal, go-to-definition, linting, live collaboration, and auto-scaling.
 
 
 ## Snippets
