@@ -6,4 +6,4 @@ git:
 language: node_js
 node_js:
   - 'node'
-script: npx awesome-lint
+script: npx awesome-lint@0.2.0
