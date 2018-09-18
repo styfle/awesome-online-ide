@@ -4,7 +4,7 @@
 
 > A curated list of awesome online implementations of Integrated Development Environments (IDE)
 
-An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is a software application that provides comprehensive facilities to computer programmers for software development. This typically includes a text editor, syntax highlighting, debugger, version control, and build/run/deploy options. Another defining feature of an IDE is some form of intelligent code completion, sometimes called [intellisense](https://en.wikipedia.org/wiki/Intelligent_code_completion).
+An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is a software application that provides comprehensive facilities to computer programmers for software development. This typically includes a text editor, syntax highlighting, file explorer, debugger, version control, and build/run/deploy options. Another defining feature of an IDE is some form of intelligent code completion, sometimes called [intellisense](https://en.wikipedia.org/wiki/Intelligent_code_completion).
  
  An "Online IDE" has the features mentioned above but runs in a web browser instead of installing as a native application. An "Online IDE" can be made accessible in offline mode without an internet connection and still satisfy the above conditions.
 
