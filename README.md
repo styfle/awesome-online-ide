@@ -46,7 +46,7 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [Coder](https://coder.com) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run most languages on a full Linux VM complete with a terminal, go-to-definition, linting, live collaboration, and auto-scaling.
 - [Gitpod](https://gitpod.io) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://www.gitpod.io/gitpod-business.html) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run any language on a full Linux VM complete with terminals, GitHub and Git integration, content assist, go-to-definition, linting, live collaboration, custom Docker workspaces, and integrated code review support.
 - [Browxy](https://www.beta.browxy.com) - Run Java, C, C++, C#, Python, or PHP with some syntax highlighting, input arguments, and publish to a public URL.
-
+- [Superblocks Lab](https://superblocks.com/lab) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/SuperblocksHQ/studio) - Run Solidity with a built in browser Ethereum blochain VM, Metamask integration (one click deployments to Testnet/Mainnet), transaction logger and live code your WebApp, everything powered by Monaco Editor.
 
 ## Snippets
 
