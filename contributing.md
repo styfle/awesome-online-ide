@@ -18,6 +18,7 @@ You are a superstar! :star:
     - Begin with the word "Run" followed by the primary language or technology, (i.e. Run Python...)
     - Explain how this IDE is different/better than the competition
     - Be concise—avoid adjectives like "fast" or "full-featured"
+    - Be more consise—avoid multiple sentences and follow the convention used for other descriptions in this document
     - End with a period—even though it is not a complete sentence, Awesome lists must end with a period
 8. Create a Pull Request with the name of the IDE in the title, such as "Add CoderBoxIDE"
 9. Add some details in the body of the Pull Request about how to use, what sets it apart, etc
