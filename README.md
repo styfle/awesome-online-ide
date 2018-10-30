@@ -62,7 +62,7 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [Repl.it](https://repl.it) - Run snippets from over 50 languages including Clojure, Scheme, Enzyme, and Jest.
 - [RunKit](https://runkit.com) - Run Node.js snippets + visualizations but requires a sign-in.
 - [OnlineGDB](https://onlinegdb.com) - Run snippets of C, C++, Java, Python, PHP, HTML with some intellisense code-completion.
-- [SQLFiddle](http://sqlfiddle.com) - Run snippets of MySQL, MSSQL, PostgreSQL, SQLite, and Oracle.
+- [SQLFiddle](http://sqlfiddle.com) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/zzzprojects/sqlfiddle3) - Run snippets of MySQL, MSSQL, PostgreSQL, SQLite, and Oracle.
 - [Go Playground](https://play.golang.org) - Run snippets for Go programming language.
 - [Rust Playground](https://play.rust-lang.org) - Run snippets of Rust programming language.
 - [TypeScript Playground](https://agentcooper.github.io/typescript-play/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/agentcooper/typescript-play) - Run snippets of TypeScript with tsconfig options and full intellisense.
