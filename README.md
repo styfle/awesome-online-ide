@@ -58,7 +58,7 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [Judge0](https://ide.judge0.com) - Run snippets from over 40 languages including Erlang, Elixir, OCaml and Octave.
 - [Ideone](https://ideone.com) - Run snippets from over 60 languages including AWK, Swift, and SQLite.
 - [The Online Compiler](https://theonlinecompiler.com) - Run snippets from over 10 languages including C++, Java, Python, C# code with some intellisense code-completion.
-- [CPP Shell](//www.cpp.sh) - Run C++ snippets with input flags for warning level and optimization level.
+- [CPP Shell](http://cpp.sh) - Run C++ snippets with input flags for warning level and optimization level.
 - [Repl.it](https://repl.it) - Run snippets from over 50 languages including Clojure, Scheme, Enzyme, and Jest.
 - [RunKit](https://runkit.com) - Run Node.js snippets + visualizations but requires a sign-in.
 - [OnlineGDB](https://onlinegdb.com) - Run snippets of C, C++, Java, Python, PHP, HTML with some intellisense code-completion.
