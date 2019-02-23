@@ -80,7 +80,7 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [Flems](https://flems.io) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/porsager/flems) - Run snippets in HTML/CSS/JS without a connection to the server (after page load).
 - [Plunker](https://plnkr.co) - Run snippets in HTML/CSS/JS/TS and collaborate by forking, commenting, and participating in the forums.
 - [Popcode](https://popcode.org) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/popcodeorg/popcode) - Run snippets in HTML/CSS/JS for use in the classroom, with student-friendly error messages and offline editing.
-- [Webpaw](https://webpaw.net) - Run snippets in HTML/CSS/JS with realtime collaboration, import sourcess, and development utilities.
+- [Webpaw](https://webpaw.net) - Run snippets in HTML/CSS/JS with realtime collaboration, import sources and development utilities.
 
 ## RIP
 
