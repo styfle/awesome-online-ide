@@ -71,6 +71,7 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [Codeboard.io](https://codeboard.io) - Run snippets in C, C++, Eiffel, Haskell, Java, Python, and use tests for automatic grading of code written by students.
 - [kotlin-web-demo](http://try.kotl.in) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/JetBrains/kotlin-web-demo) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://github.com/JetBrains/kotlin-web-demo/tree/master/docker) - Run Kotlin snippets with auto-completion, type checking and automatically translate Java to Kotlin code.
 - [3v4l PHP Playground](https://3v4l.org) - Run PHP snippets on 200+ versions simultaneously with VLD opcodes and performance comparison.
+- [ExtendsClass](https://extendsclass.com/sqlite-browser.html) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/hautdefrance/Web-GUI-for-SQLite) - Run snippets of SQLite.
 
 ### Web Snippets
 
