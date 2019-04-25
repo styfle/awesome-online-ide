@@ -48,7 +48,8 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [Browxy](https://www.beta.browxy.com) - Run Java, C, C++, C#, Python, or PHP with some syntax highlighting, input arguments, and publish to a public URL.
 - [Superblocks Lab](https://superblocks.com/lab) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/SuperblocksHQ/studio) - Run Solidity with a built-in browser Ethereum blockchain VM, Metamask integration (deployments to Testnet/Mainnet), transaction logger and live code your WebApp, powered by Monaco Editor.
 - [Codiad](http://demo.codiad.com) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/codiad/codiad) <img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" /> - Run most of languages on a self-hosted, resource-constrained server with plugins and shell execution.
-- [Appitr](https://appitr.com) <img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run JavaScript ES6 with React Native in the browser built on [Monaco Editor](https://microsoft.github.io/monaco-editor/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/Microsoft/monaco-editor) and React Native Web
+- [Appitr](https://appitr.com) <img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run JavaScript ES6 with React Native in the browser built on [Monaco Editor](https://microsoft.github.io/monaco-editor/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/Microsoft/monaco-editor) and React Native Web.
+- [DrRacket](https://www.rollapp.com/app/drracket) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run [Racket](https://racket-lang.org) with support for macro debugging.
 
 ## Snippets
 
@@ -71,6 +72,7 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [Codeboard.io](https://codeboard.io) - Run snippets in C, C++, Eiffel, Haskell, Java, Python, and use tests for automatic grading of code written by students.
 - [kotlin-web-demo](http://try.kotl.in) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/JetBrains/kotlin-web-demo) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://github.com/JetBrains/kotlin-web-demo/tree/master/docker) - Run Kotlin snippets with auto-completion, type checking and automatically translate Java to Kotlin code.
 - [3v4l PHP Playground](https://3v4l.org) - Run PHP snippets on 200+ versions simultaneously with VLD opcodes and performance comparison.
+- [PasteRack](http://pasterack.org) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/stchang/pasterack) - A Racket-evaluating pastebin for the [Racket](https://racket-lang.org) programming language.
 
 ### Web Snippets
 
