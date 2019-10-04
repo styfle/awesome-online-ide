@@ -50,6 +50,8 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [Codiad](http://demo.codiad.com) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/codiad/codiad) <img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" /> - Run most of languages on a self-hosted, resource-constrained server with plugins and shell execution.
 - [Appitr](https://appitr.com) <img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run JavaScript ES6 with React Native in the browser built on [Monaco Editor](https://microsoft.github.io/monaco-editor/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/Microsoft/monaco-editor) and React Native Web.
 - [DrRacket](https://www.rollapp.com/app/drracket) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run [Racket](https://racket-lang.org) with support for macro debugging.
+- [Next.tech](https://next.tech/) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run any programming language from a Linux VM with terminal access
+
 
 ## Snippets
 
