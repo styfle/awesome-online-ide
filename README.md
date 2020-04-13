@@ -75,6 +75,7 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [3v4l PHP Playground](https://3v4l.org) - Run PHP snippets on 200+ versions simultaneously with VLD opcodes and performance comparison.
 - [PasteRack](http://pasterack.org) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/stchang/pasterack) - Run Racket snippets with support for sample and recent snippets.
 - [myCompiler.io](https://www.mycompiler.io) - Run snippets from over 12 languages including C, C++, Java, Python, Ruby, Nodejs and more with auto code-completion, syntax highlighting, collaboration features like forking, commenting and sharing of code snippets.
+- [.NET Fiddle](https://dotnetfiddle.net) - Run C#, F# and VB.net snippets with NuGet Packages.
 
 ### Web Snippets
 
