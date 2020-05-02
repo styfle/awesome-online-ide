@@ -76,7 +76,7 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [PasteRack](http://pasterack.org) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/stchang/pasterack) - Run Racket snippets with support for sample and recent snippets.
 - [myCompiler.io](https://www.mycompiler.io) - Run snippets from over 12 languages including C, C++, Java, Python, Ruby, Nodejs and more with auto code-completion, syntax highlighting, collaboration features like forking, commenting and sharing of code snippets.
 - [.NET Fiddle](https://dotnetfiddle.net) - Run C#, F# and VB.net snippets with NuGet Packages.
-- [Coding Rooms](https://codingrooms.com/) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run snippets of Javascript, Java, Python, C++ and more in a collaborative environment with intellisense, live chat, audio and video conferencing, and real-time editing
+- [Coding Rooms](https://codingrooms.com) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run snippets of Javascript, Java, Python, C++ and more in a collaborative environment with intellisense, live chat, audio and video conferencing, and real-time editing
 
 ### Web Snippets
 
