@@ -1,4 +1,4 @@
-<a href="https://ide.ceriously.com"><img width="128" height="128" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/codeschool.svg" align="right"></a>
+<img width="128" height="128" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/codeschool.svg" align="right">
 
 # Awesome Online IDE [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
