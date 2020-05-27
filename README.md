@@ -51,7 +51,7 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [Appitr](https://appitr.com) <img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run JavaScript ES6 with React Native in the browser built on [Monaco Editor](https://microsoft.github.io/monaco-editor/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/Microsoft/monaco-editor) and React Native Web.
 - [DrRacket](https://www.rollapp.com/app/drracket) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run [Racket](https://racket-lang.org) with support for macro debugging.
 - [Google Cloud Shell editor](https://cloud.google.com/shell) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run any language on a full VM complete with a terminal and editor based on [Theia](https://theia-ide.org) <img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />.
-- [Adaface PairPro](https://www.adaface.com/pair-pro) - Run 24+ programming languages on a shared code editor with compiler and video conferencing.
+- [Adaface PairPro](https://www.adaface.com/pair-pro) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run 24+ programming languages on a shared code editor with compiler and video conferencing, designed for interviews.
 
 ## Snippets
 
