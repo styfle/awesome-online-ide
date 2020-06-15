@@ -15,7 +15,6 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [Full IDE](#full-ide)
 - [Snippets](#snippets)
 - [Web Snippets](#web-snippets)
-- [RIP](#rip)
 
 ### Legend
 
@@ -47,7 +46,6 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [Gitpod](https://gitpod.io) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://www.gitpod.io/pricing/#enterprise) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run any language on a full Linux VM complete with terminals, GitHub and Git integration, content assist, go-to-definition, linting, live collaboration, custom Docker workspaces, and integrated code review support.
 - [Browxy](https://www.beta.browxy.com) - Run Java, C, C++, C#, Python, or PHP with some syntax highlighting, input arguments, and publish to a public URL.
 - [Superblocks Lab](https://superblocks.com/lab) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/SuperblocksHQ/studio) - Run Solidity with a built-in browser Ethereum blockchain VM, Metamask integration (deployments to Testnet/Mainnet), transaction logger and live code your WebApp, powered by Monaco Editor.
-- [Codiad](http://demo.codiad.com) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/codiad/codiad) <img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" /> - Run most of languages on a self-hosted, resource-constrained server with plugins and shell execution.
 - [Appitr](https://appitr.com) <img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run JavaScript ES6 with React Native in the browser built on [Monaco Editor](https://microsoft.github.io/monaco-editor/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/Microsoft/monaco-editor) and React Native Web.
 - [DrRacket](https://www.rollapp.com/app/drracket) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run [Racket](https://racket-lang.org) with support for macro debugging.
 - [Google Cloud Shell editor](https://cloud.google.com/shell) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run any language on a full VM complete with a terminal and editor based on [Theia](https://theia-ide.org) <img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />.
@@ -61,7 +59,6 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [JDoodle](https://www.jdoodle.com) - Run snippets from over 100 languages including Haskell, Prolog, MySQL, and MongoDB.
 - [Judge0](https://ide.judge0.com) - Run snippets from over 40 languages including Erlang, Elixir, OCaml and Octave.
 - [Ideone](https://ideone.com) - Run snippets from over 60 languages including AWK, Swift, and SQLite.
-- [The Online Compiler](https://theonlinecompiler.com) - Run snippets from over 10 languages including C++, Java, Python, C# code with some intellisense code-completion.
 - [CPP Shell](http://cpp.sh) - Run C++ snippets with input flags for warning level and optimization level.
 - [Repl.it](https://repl.it) - Run snippets from over 50 languages including Clojure, Scheme, Enzyme, and Jest.
 - [RunKit](https://runkit.com) - Run Node.js snippets + visualizations but requires a sign-in.
@@ -88,12 +85,6 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [Plunker](https://plnkr.co) - Run snippets in HTML/CSS/JS/TS and collaborate by forking, commenting, and participating in the forums.
 - [Popcode](https://popcode.org) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/popcodeorg/popcode) - Run snippets in HTML/CSS/JS for use in the classroom, with student-friendly error messages and offline editing.
 - [Webpaw](https://webpaw.net) - Run snippets in HTML/CSS/JS with realtime collaboration, import sources and development utilities.
-
-## RIP
-
-- ~~[Nitrous](https://www.nitrous.io) - All languages.~~
-- ~~[Runnable](http://code.runnable.com) - All snippets.~~
-- ~~WebpackBin [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/cerebral/webpackbin) - Run webpack bundling with starting templates for Babel ES2015 or TypeScript.~~ Merged with CodeSandbox in February 2018.
 
 ## Contribute
 
