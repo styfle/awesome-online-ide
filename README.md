@@ -50,6 +50,8 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [DrRacket](https://www.rollapp.com/app/drracket) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run [Racket](https://racket-lang.org) with support for macro debugging.
 - [Google Cloud Shell editor](https://cloud.google.com/shell) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run any language on a full VM complete with a terminal and editor based on [Theia](https://theia-ide.org) <img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />.
 - [Adaface PairPro](https://www.adaface.com/pair-pro) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run 24+ programming languages on a shared code editor with compiler and video conferencing, designed for interviews.
+- [Devello Studio](https://devellostudio.com/) - Run HTML, JavaScript and CSS to make web projects. Full GitHub and FTP integration, live preview, error checking, console and easy file upload.
+
 
 ## Snippets
 
