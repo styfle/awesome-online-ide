@@ -50,6 +50,7 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [DrRacket](https://www.rollapp.com/app/drracket) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run [Racket](https://racket-lang.org) with support for macro debugging.
 - [Google Cloud Shell editor](https://cloud.google.com/shell) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run any language on a full VM complete with a terminal and editor based on [Theia](https://theia-ide.org) <img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />.
 - [Adaface PairPro](https://www.adaface.com/pair-pro) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run 24+ programming languages on a shared code editor with compiler and video conferencing, designed for interviews.
+- [Repl.it](https://repl.it) - Run over 50 different programming languages in a collaborative IDE with a terminal, webview, and repl that automatically hosts your projects and installs dependencies.
 
 ## Snippets
 
@@ -60,7 +61,6 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [Judge0](https://ide.judge0.com) - Run snippets from over 40 languages including Erlang, Elixir, OCaml and Octave.
 - [Ideone](https://ideone.com) - Run snippets from over 60 languages including AWK, Swift, and SQLite.
 - [CPP Shell](http://cpp.sh) - Run C++ snippets with input flags for warning level and optimization level.
-- [Repl.it](https://repl.it) - Run snippets from over 50 languages including Clojure, Scheme, Enzyme, and Jest.
 - [RunKit](https://runkit.com) - Run Node.js snippets + visualizations but requires a sign-in.
 - [OnlineGDB](https://onlinegdb.com) - Run snippets of C, C++, Java, Python, PHP, HTML with some intellisense code-completion.
 - [SQLFiddle](http://sqlfiddle.com) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/zzzprojects/sqlfiddle3) - Run snippets of MySQL, MSSQL, PostgreSQL, SQLite, and Oracle.
