@@ -61,7 +61,7 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [Judge0](https://ide.judge0.com) - Run snippets from over 40 languages including Erlang, Elixir, OCaml and Octave.
 - [Ideone](https://ideone.com) - Run snippets from over 60 languages including AWK, Swift, and SQLite.
 - [CPP Shell](http://cpp.sh) - Run C++ snippets with input flags for warning level and optimization level.
-- [RunKit](https://runkit.com) - Run Node.js snippets + visualizations but requires a sign-in.
+- [RunKit](https://runkit.com) - Run Node.js snippets + visualizations and share with a public URL.
 - [OnlineGDB](https://onlinegdb.com) - Run snippets of C, C++, Java, Python, PHP, HTML with some intellisense code-completion.
 - [SQLFiddle](http://sqlfiddle.com) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/zzzprojects/sqlfiddle3) - Run snippets of MySQL, MSSQL, PostgreSQL, SQLite, and Oracle.
 - [Go Playground](https://play.golang.org) - Run snippets for Go programming language.
