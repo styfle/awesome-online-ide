@@ -51,6 +51,7 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [Google Cloud Shell editor](https://cloud.google.com/shell) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run any language on a full VM complete with a terminal and editor based on [Theia](https://theia-ide.org) <img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />.
 - [Adaface PairPro](https://www.adaface.com/pair-pro) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run 24+ programming languages on a shared code editor with compiler and video conferencing, designed for interviews.
 - [Repl.it](https://repl.it) - Run over 50 different programming languages in a collaborative IDE with a terminal, webview, and repl that automatically hosts your projects and installs dependencies.
+- [Atheos](https://atheos.io) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/Atheos/Atheos) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://hub.docker.com/r/hlsiira/atheos) - Run most languages using a PHP/Browser based IDE with a terminal, git integration, and syntax highlighting.
 
 ## Snippets
 
