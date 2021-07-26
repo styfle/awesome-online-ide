@@ -54,6 +54,7 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [Atheos](https://atheos.io) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/Atheos/Atheos) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://hub.docker.com/r/hlsiira/atheos) - Run most languages using a PHP/Browser based IDE with a terminal, git integration, and syntax highlighting.
 - [HASH](https://hash.ai) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Build and run JavaScript, Python, or Rust multi-agent simulations in the browser. Provides visualization, analysis, and experiment features.
 - [goormIDE](https://ide.goorm.io) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run almost every programming languages with real-time collaboration, live pair programming, and built-in messenger. 
+- [Coding Rooms](https://codingrooms.com/compiler/) - Edit and run JavaScript, Java, Python, C++ and more in a collaborative environment with intellisense, live chat, audio and video conferencing, real-time editing, and terminal.
 
 ## Snippets
 
@@ -77,7 +78,6 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [PasteRack](http://pasterack.org) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/stchang/pasterack) - Run Racket snippets with support for sample and recent snippets.
 - [myCompiler.io](https://www.mycompiler.io) - Run snippets from over 12 languages including C, C++, Java, Python, Ruby, Nodejs and more with auto code-completion, syntax highlighting, collaboration features like forking, commenting and sharing of code snippets.
 - [.NET Fiddle](https://dotnetfiddle.net) - Run C#, F# and VB.net snippets with NuGet Packages.
-- [Coding Rooms](https://codingrooms.com) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run snippets of JavaScript, Java, Python, C++ and more in a collaborative environment with intellisense, live chat, audio and video conferencing, and real-time editing.
 - [Scastie](https://scastie.scala-lang.org) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/scalacenter/scastie) - Run Scala snippets with support of choosing different Scala versions, using any public library, configuring SBT settings, sharing a code snippet, embedding it into your website, etc.
 
 ### Web Snippets
