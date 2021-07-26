@@ -54,7 +54,7 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [Atheos](https://atheos.io) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/Atheos/Atheos) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://hub.docker.com/r/hlsiira/atheos) - Run most languages using a PHP/Browser based IDE with a terminal, git integration, and syntax highlighting.
 - [HASH](https://hash.ai) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Build and run JavaScript, Python, or Rust multi-agent simulations in the browser. Provides visualization, analysis, and experiment features.
 - [goormIDE](https://ide.goorm.io) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run almost every programming languages with real-time collaboration, live pair programming, and built-in messenger. 
-- [Coding Rooms](https://codingrooms.com/compiler/) - Edit and run JavaScript, Java, Python, C++ and more in a collaborative environment with intellisense, live chat, audio and video conferencing, and real-time editing. Each workspace offers an interactive terminal and containerized environment.
+- [Coding Rooms](https://codingrooms.com/compiler/) - Edit and run JavaScript, Java, Python, C++ and more in a collaborative environment with intellisense, live chat, audio and video conferencing, real-time editing, and terminal.
 
 ## Snippets
 
