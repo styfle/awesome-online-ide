@@ -58,7 +58,7 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [Coding Rooms](https://codingrooms.com/compiler/) - Edit and run JavaScript, Java, Python, C++ and more in a collaborative environment with intellisense, live chat, audio and video conferencing, real-time editing, and terminal.
 - [Backlight](https://backlight.dev/) - Run and edit any language in Backlight, a saas coding platform implementing [Monaco Editor](https://microsoft.github.io/monaco-editor/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/Microsoft/monaco-editor) where front-end teams build, document, publish, scale and maintain Design Systems.
 - [Webcomponents.dev](https://webcomponents.dev/) - Run and edit any language in a saas IDE based on [Monaco Editor](https://microsoft.github.io/monaco-editor/) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/Microsoft/monaco-editor) where you can code web components in isolation, visualize them in stories, test and publish them on npm.
-- [Components.studio](https://webcomponents.dev/) - Run and edit any language to code components in isolation, visualize them in stories, test and publish them on npm.
+- [Components.studio](https://components.studio/) - Run and edit any language to code components in isolation, visualize them in stories, test and publish them on npm.
 
 ## Snippets
 
