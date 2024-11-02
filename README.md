@@ -89,6 +89,7 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [Flems](https://flems.io) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/porsager/flems) - Run snippets in HTML/CSS/JS without a connection to the server (after page load).
 - [Plunker](https://plnkr.co) - Run snippets in HTML/CSS/JS/TS and collaborate by forking, commenting, and participating in the forums.
 - [Popcode](https://popcode.org) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/popcodeorg/popcode) - Run snippets in HTML/CSS/JS for use in the classroom, with student-friendly error messages and offline editing.
+- [LiveCodes](https://livecodes.io) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/live-codes/livecodes) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://livecodes.io/docs/features/self-hosting) - Run snippets in 90+ languages/frameworks, including React, Vue, Svelte, Solid, Typescript, Python, Go, Ruby, PHP and many more. Runs client-side with no backend. Projects can be shared, exported, deployed and embedded. Free AI code assistant.
 
 ## Contribute
 
