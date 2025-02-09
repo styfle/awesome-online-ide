@@ -55,6 +55,7 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [HASH](https://hash.ai) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Build and run JavaScript, Python, or Rust multi-agent simulations in the browser. Provides visualization, analysis, and experiment features.
 - [goormIDE](https://ide.goorm.io) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run almost every programming languages with real-time collaboration, live pair programming, and built-in messenger.
 - [Dockside](https://dockside.io) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/newsnowlabs/dockside) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://hub.docker.com/r/newsnowlabs/dockside) - Self host parallel access-controlled development containers complete with the Theia IDE and terminal, for developing in any language and multiple architectures, within choice of Docker runtimes; stage running code publicly or securely on own domains over HTTPS.
+- [OneCompiler](https://onecompiler.com/) - Run code online for over 70 programming languages & databases, including Java, Python, MySQL, C, C++, NodeJS, JavaScript, Groovy & HTML.
 
 ## Snippets
 
