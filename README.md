@@ -90,6 +90,7 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [Plunker](https://plnkr.co) - Run snippets in HTML/CSS/JS/TS and collaborate by forking, commenting, and participating in the forums.
 - [Popcode](https://popcode.org) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/popcodeorg/popcode) - Run snippets in HTML/CSS/JS for use in the classroom, with student-friendly error messages and offline editing.
 - [LiveCodes](https://livecodes.io) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/live-codes/livecodes) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://livecodes.io/docs/features/self-hosting) - Run snippets in 90+ languages/frameworks, including React, Vue, Svelte, Solid, Typescript, Python, Go, Ruby, PHP and many more. Runs client-side with no backend. Projects can be shared, exported, deployed and embedded. Free AI code assistant.
+- [Flexpilot IDE](https://flexpilot.ai) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/flexpilot-ai/flexpilot-ide) - An open-source, free, AI-native, privacy-first IDE, forked from VS Code, offering the flexibility to bring your own keys for the LLMs of your choice.
 
 ## Contribute
 
