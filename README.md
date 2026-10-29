@@ -80,6 +80,7 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [.NET Fiddle](https://dotnetfiddle.net) - Run C#, F# and VB.net snippets with NuGet Packages.
 - [Scastie](https://scastie.scala-lang.org) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/scalacenter/scastie) - Run Scala snippets with support of choosing different Scala versions, using any public library, configuring SBT settings, sharing a code snippet, embedding it into your website, etc.
 - [Free Code Compiler](https://www.freecodecompiler.com) - Run snippets from over 19 languages including C, C++, Java, Python, Go, Swift, Lua, and more with syntax highlighting, stdin, and recent snippets.
+- [Devtoolry](https://devtoolry.com/compilers) - Run C, C++, Go, Ruby, R, PHP and Python snippets compiled in the browser with WebAssembly, so code is never sent to a server.
 
 ### Web Snippets
 
