@@ -56,6 +56,8 @@ An ([IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)) is 
 - [goormIDE](https://ide.goorm.io) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run almost every programming languages with real-time collaboration, live pair programming, and built-in messenger.
 - [Dockside](https://dockside.io) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/newsnowlabs/dockside) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://hub.docker.com/r/newsnowlabs/dockside) - Self host parallel access-controlled development containers complete with the Theia IDE and terminal, for developing in any language and multiple architectures, within choice of Docker runtimes; stage running code publicly or securely on own domains over HTTPS.
 
+- [QuickSilver Machines](https://quicksilverpro.io/machines/) <img title="Sign Up Required" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/shopify.svg" /> - Run coding agents in a cloud development box with Claude Code, Codex, OpenCode, and Hermes preinstalled and signed in.
+
 ## Snippets
 
 - [Glot](https://glot.io) [<img title="Open Source" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/github.svg" />](https://github.com/prasmussen/glot-www) [<img title="Self Hosted" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@1.2.7/icons/docker.svg" />](https://hub.docker.com/r/javierprovecho/glot-www/) - Run snippets from over 30 languages as docker containers including C#, Kotlin, Julia, Go, and Ruby.
